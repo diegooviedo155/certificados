@@ -1,0 +1,303 @@
+{
+    "data": {
+        "email": "diegooviedo155@gmail.com",
+        "username": "diegooviedo155",
+        "certificates": [
+            {
+                "score": 9,
+                "code": "69233a65-0901-4d59-9de6-e2910b36b9a1",
+                "title": "Curso Profesional Desarrollo Web"
+            },
+            {
+                "score": 9,
+                "code": "c9260895-ca16-4fe0-b8fa-820aaa4906c2",
+                "title": "Curso Profesional de JavaScript"
+            },
+            {
+                "score": 9,
+                "code": "460deb04-325b-4ebd-8b42-20c15a8a78ea",
+                "title": "Curso Profesional de Backend"
+            },
+            {
+                "score": 9,
+                "code": "17efa48b-13ad-49c3-8a01-2efbf891eb23",
+                "title": "Curso Profesional de Backend"
+            },
+            {
+                "score": 9,
+                "code": "7282e791-e414-482d-a021-81b236fbfaee",
+                "title": "Curso Profesional de React"
+            }
+        ],
+        "articles": [],
+        "courses": [
+            {
+                "title": "Curso Profesional Desarrollo Web",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/frontend-profesional"
+            },
+            {
+                "title": "Curso a fondo de CSS",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/css"
+            },
+            {
+                "title": "Curso Profesional de JavaScript",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/javascript-profesional-v1"
+            },
+            {
+                "title": "JavaScript y el DOM",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/javascript-dom"
+            },
+            {
+                "title": "Proyecto Avanzado de Desarrollo Web Frontend",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/pagina-profesional"
+            },
+            {
+                "title": "Curso de controles y efectos Frontend",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/controles-efectos-frontend"
+            },
+            {
+                "title": "Curso gratis de jQuery",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/jquery"
+            },
+            {
+                "title": "Curso de introducción a Amazon s3",
+                "progress": "99.0",
+                "url": "http://codigofacilito.com/courses/amazon-s3"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            },
+            {
+                "title": "Curso para crear Single Page Apps con React",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/react-spa"
+            },
+            {
+                "title": "Curso para desarrollar servicios web REST con Nodejs",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+            },
+            {
+                "title": "Promesas en javaScript",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/javascript-promises"
+            },
+            {
+                "title": "Curso Profesional de Backend",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/backend-profesional"
+            },
+            {
+                "title": "Curso de noSQL con MongoDB",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/nosql-moongodb"
+            },
+            {
+                "title": "Curso de MongoDB y Node.js con Mongoose",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/mongoose"
+            },
+            {
+                "title": "Curso Profesional de React",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/react-profesional"
+            },
+            {
+                "title": "Curso para crear Single Page Applications con React",
+                "progress": "53.0",
+                "url": "http://codigofacilito.com/courses/react-single-page-apps"
+            },
+            {
+                "title": "Curso para consumir APIs con AJAX",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/consumir-apis-javascript"
+            },
+            {
+                "title": "Consumir APIs REST con NodeJS",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/rest-consumir"
+            },
+            {
+                "title": "Curso de MongoDB",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/mongodb"
+            },
+            {
+                "title": "El glosario del JAMStack",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/glosario-jamstack"
+            },
+            {
+                "title": "Curso de fundamentos de UX para programadores",
+                "progress": "32.0",
+                "url": "http://codigofacilito.com/courses/fundamentos-ux"
+            },
+            {
+                "title": "Curso de unit testing en React",
+                "progress": "48.0",
+                "url": "http://codigofacilito.com/courses/react-unit-testing"
+            },
+            {
+                "title": "Curso de introducción a Gatsby",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/gatsby-introduccion"
+            },
+            {
+                "title": "Curso para desarrollo de apps con React Native",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/react-native"
+            },
+            {
+                "title": "Curso para integrar Redux con React",
+                "progress": "84.0",
+                "url": "http://codigofacilito.com/courses/redux-react"
+            },
+            {
+                "title": "Curso para crear el portafolio de Jaume",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/leonidas-portafolio-jaume"
+            },
+            {
+                "title": "Crea tu primera app de realidad virtual con el Google Cardboard",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/realidad-virtual-carboard"
+            },
+            {
+                "title": "Curso de manejo de estado en React",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/react-state-management"
+            },
+            {
+                "title": "Chat 1:1 Firebase",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/chat-1-1-firebase"
+            },
+            {
+                "title": "Curso de introducción al desarrollo móvil",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/introduccion-movil"
+            },
+            {
+                "title": "Curso de TypeScript",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/typescript"
+            }
+        ],
+        "finished_courses": [
+            {
+                "title": "Curso Profesional Desarrollo Web",
+                "url": "http://codigofacilito.com/courses/frontend-profesional"
+            },
+            {
+                "title": "Curso a fondo de CSS",
+                "url": "http://codigofacilito.com/courses/css"
+            },
+            {
+                "title": "Curso Profesional de JavaScript",
+                "url": "http://codigofacilito.com/courses/javascript-profesional-v1"
+            },
+            {
+                "title": "JavaScript y el DOM",
+                "url": "http://codigofacilito.com/courses/javascript-dom"
+            },
+            {
+                "title": "Proyecto Avanzado de Desarrollo Web Frontend",
+                "url": "http://codigofacilito.com/courses/pagina-profesional"
+            },
+            {
+                "title": "Curso de controles y efectos Frontend",
+                "url": "http://codigofacilito.com/courses/controles-efectos-frontend"
+            },
+            {
+                "title": "Curso gratis de jQuery",
+                "url": "http://codigofacilito.com/courses/jquery"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            },
+            {
+                "title": "Curso para crear Single Page Apps con React",
+                "url": "http://codigofacilito.com/courses/react-spa"
+            },
+            {
+                "title": "Curso para desarrollar servicios web REST con Nodejs",
+                "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+            },
+            {
+                "title": "Promesas en javaScript",
+                "url": "http://codigofacilito.com/courses/javascript-promises"
+            },
+            {
+                "title": "Curso Profesional de Backend",
+                "url": "http://codigofacilito.com/courses/backend-profesional"
+            },
+            {
+                "title": "Curso de noSQL con MongoDB",
+                "url": "http://codigofacilito.com/courses/nosql-moongodb"
+            },
+            {
+                "title": "Curso de MongoDB y Node.js con Mongoose",
+                "url": "http://codigofacilito.com/courses/mongoose"
+            },
+            {
+                "title": "Curso Profesional de React",
+                "url": "http://codigofacilito.com/courses/react-profesional"
+            },
+            {
+                "title": "Curso para consumir APIs con AJAX",
+                "url": "http://codigofacilito.com/courses/consumir-apis-javascript"
+            },
+            {
+                "title": "Consumir APIs REST con NodeJS",
+                "url": "http://codigofacilito.com/courses/rest-consumir"
+            },
+            {
+                "title": "Curso de MongoDB",
+                "url": "http://codigofacilito.com/courses/mongodb"
+            },
+            {
+                "title": "El glosario del JAMStack",
+                "url": "http://codigofacilito.com/courses/glosario-jamstack"
+            },
+            {
+                "title": "Curso de introducción a Gatsby",
+                "url": "http://codigofacilito.com/courses/gatsby-introduccion"
+            },
+            {
+                "title": "Curso para crear el portafolio de Jaume",
+                "url": "http://codigofacilito.com/courses/leonidas-portafolio-jaume"
+            },
+            {
+                "title": "Crea tu primera app de realidad virtual con el Google Cardboard",
+                "url": "http://codigofacilito.com/courses/realidad-virtual-carboard"
+            },
+            {
+                "title": "Curso de manejo de estado en React",
+                "url": "http://codigofacilito.com/courses/react-state-management"
+            },
+            {
+                "title": "Chat 1:1 Firebase",
+                "url": "http://codigofacilito.com/courses/chat-1-1-firebase"
+            },
+            {
+                "title": "Curso de introducción al desarrollo móvil",
+                "url": "http://codigofacilito.com/courses/introduccion-movil"
+            },
+            {
+                "title": "Curso de TypeScript",
+                "url": "http://codigofacilito.com/courses/typescript"
+            }
+        ]
+    },
+    "errors": []
+}
